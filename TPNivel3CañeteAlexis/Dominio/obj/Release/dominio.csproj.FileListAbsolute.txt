@@ -1,0 +1,6 @@
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\bin\Release\dominio.dll
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\bin\Release\dominio.pdb
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\obj\Release\dominio.dll
+C:\Users\ale_c\Desktop\Nueva carpeta (4)\Dominio\obj\Release\dominio.pdb

@@ -1,0 +1,9 @@
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\bin\Debug\Funciones.dll
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\bin\Debug\Funciones.pdb
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\bin\Debug\Dominio.dll
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\bin\Debug\Dominio.pdb
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\obj\Debug\Funciones.dll
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\Funciones\obj\Debug\Funciones.pdb
